@@ -1,0 +1,11 @@
+target/
+.project
+.settings/
+.classpath
+target/
+.DS_Store
+*.iml
+atlassian-ide-plugin.xml
+.idea
+.idea/checks-style.xml
+.vlt

@@ -1,0 +1,2 @@
+js/taggable-image.js
+js/jquery-phototag.js
